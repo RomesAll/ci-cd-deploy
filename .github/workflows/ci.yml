@@ -2,7 +2,7 @@ name: CI/CD for Static Website
 
 on:
   push:
-    branches: [ main ]
+    branches: main
 
 jobs:
   deploy:
